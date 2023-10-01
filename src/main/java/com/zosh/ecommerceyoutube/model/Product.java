@@ -246,6 +246,9 @@ public class Product {
 	 * price == other.price && quantity == other.quantity && Objects.equals(ratings,
 	 * other.ratings) && Objects.equals(reviews, other.reviews) &&
 	 * Objects.equals(sizes, other.sizes) && Objects.equals(title, other.title); }
+	 * 
+	 * 
+	 * this is added by me 
 	 */
 
 	
